@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/poetry-site/static/css/main.011645fa.css",
+    "main.js": "/poetry-site/static/js/main.b21b5dda.js",
+    "static/js/787.d4aba7ab.chunk.js": "/poetry-site/static/js/787.d4aba7ab.chunk.js",
+    "static/media/Montserrat-Medium.ttf": "/poetry-site/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Regular.ttf": "/poetry-site/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/LibreBaskerville-Regular.ttf": "/poetry-site/static/media/LibreBaskerville-Regular.715e9cea90f54d5a4093.ttf",
+    "static/media/WernickeSchwabacher.ttf": "/poetry-site/static/media/WernickeSchwabacher.c70dae95e53afbe61158.ttf",
+    "index.html": "/poetry-site/index.html",
+    "main.011645fa.css.map": "/poetry-site/static/css/main.011645fa.css.map",
+    "main.b21b5dda.js.map": "/poetry-site/static/js/main.b21b5dda.js.map",
+    "787.d4aba7ab.chunk.js.map": "/poetry-site/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.011645fa.css",
+    "static/js/main.b21b5dda.js"
+  ]
+}
